@@ -18,7 +18,7 @@ $ git clone https://github.com/natzera/rocknroll-sugar-darling.git](https://gith
 $ cd Projeto-Calculadora
 ```
 
-To start it, follow the steps below:
+Para iniciá-lo, siga os passos abaixo:
 ```bash
 # Instalar dependências
 $ Não precisa instalar dependências!
