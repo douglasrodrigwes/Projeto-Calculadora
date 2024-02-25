@@ -24,7 +24,7 @@ Para iniciá-lo, siga os passos abaixo:
 $ Não precisa instalar dependências!
 
 # Iniciar o projeto
-$ Clique no arquivo index.js, e ele abrirá diretamente no navegador, exibindo o conteúdo do projeto.
+$ Clique no arquivo index.js, e ele abrirá diretamente no navegador, exibindo o projeto.
 ```
 
 <br>
